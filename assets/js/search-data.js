@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-migratig-to-a-new-website-with-better-layout",
+            },{id: "post-scratchpads-and-why-you-need-them",
+        
+          title: "Scratchpads and why you need them.",
+        
+        description: "Transformer architectures have various capabilities; but long addition isn&#39;t one of them. Why is this the case?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/Scratchpads-and-why-you-need-them/";
+          
+        },
+      },{id: "post-migratig-to-a-new-website-with-better-layout",
         
           title: "Migratig to a new website with better layout",
         
