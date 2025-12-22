@@ -72,7 +72,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-scratchpads-and-why-you-need-them",
+            },{id: "post-be-a-better-software-engineer",
+        
+          title: "Be a better Software Engineer",
+        
+        description: "How do I (slowly) become a better Software Engineer?",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/better-swe/";
+          
+        },
+      },{id: "post-scratchpads-and-why-you-need-them",
         
           title: "Scratchpads and why you need them.",
         
@@ -81,17 +92,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/Scratchpads-and-why-you-need-them/";
-          
-        },
-      },{id: "post-migratig-to-a-new-website-with-better-layout",
-        
-          title: "Migratig to a new website with better layout",
-        
-        description: "Migrating to a new website with a better layout for better readability.",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/Migrating-to-a-new-website/";
           
         },
       },{id: "books-the-godfather",
