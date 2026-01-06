@@ -2,7 +2,7 @@
 layout: distill
 title: Be a better Software Engineer
 date: 2025-12-19
-description: How do I (slowly) become a better Software Engineer?
+description: On slowly becoming a better software engineer.
 ---
 
 ## Yapping

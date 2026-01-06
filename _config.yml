@@ -16,7 +16,7 @@ footer_text: >
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 𝓐 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ajdsouz.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -86,8 +86,8 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name:  Distil # blog_name will be displayed in your blog page
-blog_description: My thoughts, distilled
+blog_name:  FieldNotes # blog_name will be displayed in your blog page
+blog_description: Fieldnotes from my journal
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
