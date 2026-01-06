@@ -76,22 +76,11 @@ ninja.data = [{
         
           title: "The Self-Taught Reasoner",
         
-        description: "Bootstrapping Reasoning with Reasoning",
+        description: "Coming soon",
         section: "Posts",
         handler: () => {
           
             window.location.href = "/blog/2026/star/";
-          
-        },
-      },{id: "post-audiopalm",
-        
-          title: "AudioPaLM",
-        
-        description: "",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2026/audiopalm/";
           
         },
       },{id: "post-scratchpads-and-why-you-and-i-and-language-models-need-them",
@@ -109,7 +98,7 @@ ninja.data = [{
         
           title: "Be a better Software Engineer",
         
-        description: "How do I (slowly) become a better Software Engineer?",
+        description: "On slowly becoming a better software engineer.",
         section: "Posts",
         handler: () => {
           
