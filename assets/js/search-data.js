@@ -72,7 +72,40 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-be-a-better-software-engineer",
+            },{id: "post-the-self-taught-reasoner",
+        
+          title: "The Self-Taught Reasoner",
+        
+        description: "Bootstrapping Reasoning with Reasoning",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/star/";
+          
+        },
+      },{id: "post-audiopalm",
+        
+          title: "AudioPaLM",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/audiopalm/";
+          
+        },
+      },{id: "post-scratchpads-and-why-you-and-i-and-language-models-need-them",
+        
+          title: "Scratchpads and why you and I and language models need them.",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2026/scratchpads/";
+          
+        },
+      },{id: "post-be-a-better-software-engineer",
         
           title: "Be a better Software Engineer",
         
@@ -81,17 +114,6 @@ ninja.data = [{
         handler: () => {
           
             window.location.href = "/blog/2025/better-swe/";
-          
-        },
-      },{id: "post-scratchpads-and-why-you-need-them",
-        
-          title: "Scratchpads and why you need them.",
-        
-        description: "Transformer architectures have various capabilities; but long addition isn&#39;t one of them. Why is this the case?",
-        section: "Posts",
-        handler: () => {
-          
-            window.location.href = "/blog/2025/Scratchpads-and-why-you-need-them/";
           
         },
       },{id: "books-the-godfather",
@@ -149,7 +171,14 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%61%6A%64%73%6F%75%7A%61@%6C%73%74.%75%6E%69-%73%61%61%72%6C%61%6E%64.%64%65", "_blank");
+          window.open("mailto:%61%6A.%61%6E%74%68%6F%6E%79%64%73%6F%75%7A%61@%6F%75%74%6C%6F%6F%6B.%63%6F%6D", "_blank");
+        },
+      },{
+        id: 'social-github',
+        title: 'GitHub',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://github.com/ajdsouz", "_blank");
         },
       },{
         id: 'social-linkedin',
@@ -163,7 +192,7 @@ ninja.data = [{
         title: 'X',
         section: 'Socials',
         handler: () => {
-          window.open("https://twitter.com/DsouzaAnthonyJ", "_blank");
+          window.open("https://twitter.com/ajdsouz", "_blank");
         },
       },{
       id: 'light-theme',
