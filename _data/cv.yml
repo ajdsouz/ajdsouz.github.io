@@ -65,7 +65,11 @@
   contents:
     - title: <a href="https://github.com/ajdsouz/unfake.it">unfake.it</a>
       year: 2025.07-now
-      description: unfake.it is a toolkit to train and detect AI generated images and videos (Deepfakes). 
+      description: unfake.it is a toolkit to train and detect AI generated images and videos (Deepfakes).
+
+    - title: <a href="https://github.com/ajdsouz/bert">bert</a>
+      year: 2025.10-now
+      description: Pretraining a language model 
 
 # - title: Honors and Awards
 #   type: time_table
