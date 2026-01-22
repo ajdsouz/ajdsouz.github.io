@@ -4,7 +4,7 @@ title: Scratchpads and why you and I and language models need them.
 date: 2026-01-01
 bibliography: 2026-01-01-scratchpads.bib
 related_posts: false
-related_publications: true
+related_publications: false
 ---
 
 ## Yapping
@@ -50,3 +50,5 @@ There is active research into models that can adapt their compute dynamically, s
 ## Conclusion
 
 In hindsight, using scratchpads to elicit reasoning from LLMs is a simple but cool trick to use the language modelling capability of the LLM not just for adapting compute time but also providing a sort of information state tracking. 
+
+{% bibliography --cited %}
